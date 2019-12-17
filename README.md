@@ -1,2 +1,2 @@
-# Intro_to_Tesnorflow
+# Intro_to_TensorFlow
 Practice ground to make myself familiar with Tensorflow Framework
