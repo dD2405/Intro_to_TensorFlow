@@ -1,0 +1,9 @@
+dataset size  = 2000 images
+batch size = 100
+epochs = 100
+
+dataset divided into 2000/100 = 200 batches.
+one batch = 10 images
+
+one epoch = 200 batches
+100 epochs = 200 x 100 = 20,000 batches or updates to the model.
